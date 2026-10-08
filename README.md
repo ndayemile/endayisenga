@@ -61,6 +61,7 @@ You are free to view and learn from the code, but please <br>give credit to the 
 ## Collaborators<br>
 
 **Emile NDAYISENGA**  <br>
+**IRADUKUNDA Cynthia** <br>
 
 Bachelor of Technology in Information Technology (BTech IT)<br>
 
