@@ -58,7 +58,7 @@ This project is available for educational and personal use.<br>
 
 You are free to view and learn from the code, but please <br>give credit to the original author if you reuse significant portions of the project.<br>
 
-## Contributors<br>
+## Collaborators<br>
 
 **Emile NDAYISENGA**  <br>
 
